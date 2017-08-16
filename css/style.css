@@ -1,0 +1,18 @@
+barbershop
+body {
+	font-size: 14px;
+	font-family: "PTSans";
+	color: #000000;
+	font-weight: bold;
+	line-height: 24px;
+}
+.visually-hidden {
+	display: none;
+}
+.feature-item h2 {
+	font-size: 30px;
+	font-family: "PTSans";
+	color: #ffffff;
+	font-weight: bold;
+	line-height: 42px;
+}

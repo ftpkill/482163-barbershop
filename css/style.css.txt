@@ -1,8 +1,0 @@
-barbershop
-| Ц css
-|      style.css
-| Ц img
-|      [картинки]
-|   index.html
-|   catalog.html
-|   catalog-item.html
